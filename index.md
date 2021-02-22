@@ -3,6 +3,7 @@ title: Prim Demo
 keywords: prim, thanatos
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
+hidden: true
 ---
 
 This is a guide to Prim Demo. It also showcases what NGH can do.
