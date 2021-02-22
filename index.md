@@ -1,9 +1,9 @@
 ---
-title: A Great Example
-keywords: great example, spoiler free guide
+title: Prim Demo
+keywords: prim, thanatos
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
 ---
 
-A Great Example is the latest and coolest point'n'click game to make example guides of.
-This text is shown to the readers when they got to the Great Example NGH page.
+This is a guide to Prim Demo. It also showcases what NGH can do.
+Get a quick hint from the eye spider: ^[ This is a quick hint. ]
