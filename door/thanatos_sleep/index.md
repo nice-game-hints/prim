@@ -24,4 +24,4 @@ Now just put the right stuff. You need to first know [what the two herbs are for
 Well, the White Widow has narcotic effects. But the subject has to [be very tired](thanatos_tired.md).
 
 # He is tired
-From dancing? Good. I think he is ready for some White Widow inh his pipe.
+From dancing? Good. I think he is ready for some White Widow in his pipe.
