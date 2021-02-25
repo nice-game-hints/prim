@@ -1,6 +1,6 @@
 ---
 title: The other side of the door
-order: 20
+order: 200
 ---
 
 Prim's father locked the door from outside.
