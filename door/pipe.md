@@ -21,7 +21,7 @@ You can put _substances_ into the pipe, for example.
 Like herbs you find from the bookshelf.
 
 # I have the herbs
-You first have to [know what the herbs do](correct_herb.md).
+You first have to [know what the herbs do](identify_herbs.md).
 
 # I know what the herbs do
 Great! [Make him sleep with the White Widow.](thanatos_sleep/index.md)
