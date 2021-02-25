@@ -24,4 +24,4 @@ Like herbs you find from the bookshelf.
 You first have to [know what the herbs do](correct_herb.md).
 
 # I know what the herbs do
-Great! [Make him sleep with the White Widow.](thanatos_sleep.md)
+Great! [Make him sleep with the White Widow.](thanatos_sleep/index.md)

@@ -19,7 +19,7 @@ White Widow:
 ![White Widow](white_widow.jpg)
 
 Acheron Swamp Trumpet:
-![Acheron Swamp Trumpet](swamp_trumpet.jpg)
+![Acheron Swamp Trumpet](black_trumpet.jpg)
 
 White Widow is Hypno's Finest. It's hypnotic effect only affects if the subject is already very tired.
 Acheron Swamp Trumpet. Amplifies subject's perception of music. Used as a party drug.
