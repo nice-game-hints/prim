@@ -15,10 +15,10 @@ Exactly! Maybe some substance in the pipe would make him sleepy.
 You find that stuff from the room. ^[ Take some strange herbs from the bookshelf. ]
 
 # I have the _substance_
-Now just put the right stuff. You need to first know [what the two herbs are for](correct_herb.md).
+Now just put the right stuff. You need to first know [what the two herbs are for](../correct_herb.md).
 
 # How to put herbs into the pipe?
-[Get access to the pipe.](pipe.md)
+[Get access to the pipe.](../pipe.md)
 
 # Which herb to put in there?
 Well, the White Widow has narcotic effects. But the subject has to [be very tired](thanatos_tired.md).
