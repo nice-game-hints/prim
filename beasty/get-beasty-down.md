@@ -15,4 +15,4 @@ You would need a longer arm.
 Or extra arm! ^[ There is a skeleton arm left from the door. ]
 
 # I have an arm!
-Concentrate on [the cobweb thread](cut-the-thread.md).
+Concentrate on [the cobweb thread](cut-the-thread).

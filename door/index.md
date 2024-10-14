@@ -9,7 +9,7 @@ Prim's father locked the door from outside.
 If you could just get to the other side...
 
 # That's what I am trying!
-Not Prim necessary. [Did you catch the creature](../beasty/index.md), already?
+Not Prim necessary. [Did you catch the creature](beasty), already?
 
 # I have Spidereye
 Great. Maybe it can help you.

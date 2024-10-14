@@ -24,7 +24,7 @@ You have a longer arm and a tool to cut the thread...
 Combine the scythe and the skeleton arm in the inventory. Use the new tool from the armchair on the cobweb thread.
 
 # It escapes!
-[You need to distract the spider.](distract-beasty.md)
+[You need to distract the spider.](distract-beasty)
 
 # Distracted!
 Cut the thread with the skeleton arm extended scythe.

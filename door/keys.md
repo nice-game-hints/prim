@@ -9,7 +9,7 @@ Did you spot the key already? ^[ It is hanging on Thanatos' belt. ]
 He is alert and does not let Spidereye take it.
 
 # What to do?
-You should [make him _less alert_](thanatos_sleep/index.md).
+You should [make him _less alert_](thanatos_sleep).
 
 # Sweet dreams...
 You can now grab the keys and open the door. Freedom!
