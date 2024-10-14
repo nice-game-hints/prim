@@ -1,6 +1,6 @@
 ---
 title: Getting the pipe
-order: 50
+order: 40
 ---
 
 Thanatos is using the pipe while listening to music.
@@ -17,7 +17,7 @@ Now, quick! You can go and do stuff with the pipe.
 # What am I supposed to do?
 You can put _substances_ into the pipe, for example.
 
-# Substances?
+## Substances?
 Like herbs you find from the bookshelf.
 
 # I have the herbs

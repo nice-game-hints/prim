@@ -20,7 +20,7 @@ Or extra arm! ^[ There is a skeleton arm left from the door. ]
 # I have an arm!
 You have a longer arm and a tool to cut the thread...
 
-# Tell me
+## Tell me
 Combine the scythe and the skeleton arm in the inventory. Use the new tool from the armchair on the cobweb thread.
 
 # It escapes!

@@ -1,6 +1,6 @@
 ---
 title: Identifying the herbs
-order: 70
+order: 50
 ---
 
 Spidereye caught some weird herbs from the bookshelf.
@@ -14,7 +14,7 @@ There's a Book of Herbology on the table. Grab that.
 # And then?
 You need to match the herb picture with the ones you have in your inventory by changing the features.
 
-# Show me!
+## Show me!
 White Widow: Hypno's Finest. It's hypnotic effect only affects if the subject is already very tired.
 ![White Widow](white_widow.jpg)
 

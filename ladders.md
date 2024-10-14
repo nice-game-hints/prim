@@ -1,6 +1,6 @@
 ---
 title: Moving the ladders
-order: 55
+order: 30
 ---
 
 The ladders are stuck. The wheel is too rusty.
@@ -11,7 +11,7 @@ Rusty objects are usually loosened with oil.
 # Where do I get oil?
 Not oil, per se. Maybe something oily?
 
-# What is oily?
+## What is oily?
 The ectoplasm on the floor, in front of the door, is oily enough.
 
 # I have ectoplasm

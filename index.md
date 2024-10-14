@@ -1,6 +1,6 @@
 ---
 title: Prim Demo
-keywords: prim, thanatos
+keywords: prim,thanatos
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
 hidden: true

@@ -11,7 +11,7 @@ It needs to be distracted. It is an **eye** creature, you know?
 # Eye creature?
 You could irritate it's eye with something.
 
-# What?
+## What?
 Grab the Vampyr-Ex^TM^ bottle. ^[ It is on the shelf under the painting. ]
 
 # I have the bottle
