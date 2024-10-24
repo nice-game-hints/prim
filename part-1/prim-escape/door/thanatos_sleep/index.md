@@ -1,6 +1,6 @@
 ---
 title: Make Thanatos sleep
-order: 60
+order: 50
 ---
 
 To get the keys from Thanatos he would have to be... less alert.

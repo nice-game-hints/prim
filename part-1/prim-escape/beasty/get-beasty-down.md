@@ -1,6 +1,6 @@
 ---
 title: Getting the spider down
-order: 10
+order: 30
 ---
 
 The spider is hanging from the roof.

@@ -1,6 +1,6 @@
 ---
 title: Radio
-order: 10
+order: 40
 ---
 
 The radio is playing smooth jazz. The [ugly gargoyle](ugly_gargoyle) is blocking Spidereye.

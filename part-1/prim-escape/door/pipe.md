@@ -1,6 +1,6 @@
 ---
 title: Getting the pipe
-order: 40
+order: 30
 ---
 
 Thanatos is using the pipe while listening to music.

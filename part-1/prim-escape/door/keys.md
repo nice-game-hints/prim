@@ -1,6 +1,6 @@
 ---
 title: Getting the key to the door
-order: 30
+order: 20
 ---
 
 Did you spot the key already? ^[ It is hanging on Thanatos' belt. ]

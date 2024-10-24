@@ -1,6 +1,6 @@
 ---
 title: Distracting the spider
-order: 30
+order: 20
 ---
 
 The spider beasty will escape from your attempts to catch it.

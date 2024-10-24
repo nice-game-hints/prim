@@ -1,6 +1,6 @@
 ---
 title: Getting rid of the ugly gargoyle
-order: 20
+order: 60
 ---
 
 That ugly gargoyle is preventing Spidereye from accessing the radio.

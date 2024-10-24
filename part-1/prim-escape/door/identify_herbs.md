@@ -1,6 +1,6 @@
 ---
 title: Identifying the herbs
-order: 50
+order: 10
 ---
 
 Spidereye caught some weird herbs from the bookshelf.
