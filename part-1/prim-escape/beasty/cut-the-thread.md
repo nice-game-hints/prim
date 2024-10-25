@@ -1,6 +1,6 @@
 ---
 title: Cutting the cobweb thread
-order: 10
+order: 20
 ---
 
 The spider is hangin from the cobweb thread.
