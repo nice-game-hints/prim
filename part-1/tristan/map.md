@@ -16,7 +16,6 @@ Check your inventory. ^[ Look a the purse, you get a metal button ]
 
 Use the button to open the screws.
 
-
 # The right one is too tight
 You need to losen it.
 
